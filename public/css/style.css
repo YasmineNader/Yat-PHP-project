@@ -1,0 +1,489 @@
+.navbar {
+    
+
+    background-color: #03031e;
+
+
+}
+
+
+.navbar-dark .navbar-nav .nav-link1  {
+
+color: #9f8c5f;
+padding-left: 80px;
+
+}
+
+
+
+.navbar-dark .navbar-brand {
+
+
+    color: #9f8c5f;
+
+}
+
+#footer{
+
+background-color: #03031e;
+
+
+text-align: center;
+
+
+color: #9f8c5f;
+
+margin-top: 40px;
+padding-top: 10px;
+    
+ 
+    
+    
+    
+}
+
+
+
+#pagehead{
+
+
+
+        color: #04142b;
+}
+.upimg{
+
+
+width: 100% ;
+
+
+
+}
+
+#contacttable{
+
+    line-height: 4;
+    font-size: 15px;
+}
+
+
+.cardrow{
+
+
+
+    margin-top: 40px;
+}
+
+
+.d-block 
+{
+
+    height: 600px;
+
+
+
+}
+.margforms{
+
+
+    margin-top: 30px;
+}
+
+
+.about h1{
+
+text-align: center;
+
+margin-top: 50px;
+margin-bottom:50px;
+}
+
+.about p{
+
+    text-align: justify;
+    line-height: 2;
+
+
+
+}
+
+
+
+.card-text{
+
+
+text-align: center;
+
+
+
+
+
+}
+
+
+#loginform{
+
+  
+    
+background-color: rgba(0, 0, 0, 0.5);
+
+border-radius: 20px;
+padding: 25px;
+
+}
+
+
+
+
+.formcolor{
+
+color:white;
+
+}
+
+#body_bg{
+
+
+
+
+background-image:url('login.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+#login-title{
+
+color: white;
+text-align: center;
+
+padding-bottom: 10px;
+
+}
+
+
+.btnform {
+
+
+width:49%;
+
+background-color:#04142b;
+color:#9f8c5f;
+
+
+
+}
+.error{
+
+color: #bf0000;
+
+
+}
+.btn-dark a {
+
+
+text-decoration: none;
+color: white;
+
+
+
+}
+
+
+
+
+    .card img {
+
+
+        height: 220px;
+
+
+
+    }
+
+    .card-body{
+
+
+background-color:  #03031e;
+
+color: #9f8c5f;
+
+    }
+
+
+    #aboutpra{
+
+
+
+    font-size: 20px;
+    font-family: sans-serif;
+    font-style: italic;
+    }
+
+
+    .carousel-indicators li{
+
+        width: 20px;
+        height: 15px;
+        border-radius: 50%;
+
+
+
+
+        
+    }
+
+
+    iframe{
+
+
+
+        margin-top: 30px;
+    margin-bottom: -45px;
+}
+    
+#abouttitle{
+
+font-style: italic;
+
+font-family: emoji;
+
+}
+
+#logo{
+
+width: 50px;
+margin-right: 10px;
+
+
+}
+
+#logohead
+{
+
+
+
+    
+    font-style: italic;
+    color: #9f8c5f;
+    font-size: 25px;
+    font-family: serif;
+   
+}
+
+
+.btn-primary{
+
+
+
+
+
+
+    background-color: #03031e;
+    color: #9f8c5f;
+    width: 100%;
+}
+
+
+#logmenu{
+
+
+    background-color: #03031e; 
+    
+    width: 100%;
+    margin-left: 40px;
+
+    margin-top: 12px;
+
+}
+
+
+.dropdown-item{
+
+
+    color: #9f8c5f;
+    text-align: center;
+    
+}
+
+.dates{
+
+
+
+    margin-top: 10px;
+}
+
+.fo{
+
+
+
+  
+     font-style: italic;
+}
+
+
+#focopy{
+
+
+
+    padding-top: 20px;
+    padding-left: 112px;
+    text-align:center
+
+}
+#foicon{
+
+
+
+
+    margin-top: -10px;
+    padding-bottom: 10px;
+}
+
+
+
+#foicon a{
+
+
+
+    margin-left: 10px;
+}
+
+
+#user{
+
+    margin-top: -8px;
+}
+
+#user1{
+
+    margin-top: -8px;
+}
+
+.formargin{
+margin-top: 10px;
+}
+
+.Roomdetailstitle{
+
+  font-weight: bold;
+  font-size: 30px;
+  font-style: italic;
+
+}
+.detailsinfo{
+
+  font-size: 24px;
+
+}
+#titleRoomDetails{
+    
+    text-align: center;
+    margin-top: 10px;
+    font-style: italic;
+    
+}
+#imgRoomDetails{
+    
+    
+    text-align:right;
+    
+        
+}
+#roomimgsize{
+    
+    
+     width:100%;
+}
+
+#containerroomdetais{
+    
+    
+    margin-top: 25px;
+}
+#colroomdetails{
+    
+    
+    margin-top: 150px;
+}
+
+#Rigsterbtn{
+    
+    
+ 
+    width: 50%;
+    
+    margin-left: 115px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+
+}
+
+.navbar-dark .navbar-nav .nav-link  {
+
+color: #9f8c5f;
+
+
+}
+.adminlogin{
+    
+  
+float: right;
+}
+
+.sidebar{
+    
+    
+  color: #9f8c5f;
+  background-color: #03031e;
+    
+    
+}
+
+.sidebar:hover{
+    
+    text-decoration: none;
+}
+.backendtables{
+    
+    
+    width:35px;
+}
+
+#titledescr{
+    
+ width: 15%;
+}
+.footerend {
+    
+    
+ height: 95px;
+
+bottom: 0px;
+ width: 100%;
+margin-top: 140px;
+}
+/*
+.registrtable{        
+word-break: break-word;
+}
+*/
+#btnback{
+    
+    
+        width: 20%;
+
+}
+
+#btnreg{
+    
+    
+        width: 80%;
+}
+
+.scrolltable{
+    
+    max-width: 100%;
+    overflow: auto;
+}
+}
